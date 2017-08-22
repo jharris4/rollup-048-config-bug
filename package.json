@@ -1,0 +1,14 @@
+{
+  "name": "rollup-048-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "deploy": "rollup -c -o dist/bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^0.48.2"
+  }
+}
